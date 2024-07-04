@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@pyscript/core": "^0.4.55",
+    "node-fetch": "^3.3.2"
+  }
+}
